@@ -18,9 +18,9 @@ testing=0
 #Start counting the renaming passes made
 passNumber=1
 ##Set the recycle bin locations
-binLocation=/home/nuc/downloads/recycle
-binMovie=/home/nuc/downloads/recycle/radarr
-binTV=/home/nuc/downloads/recycle/sonarr
+binLocation=/home/nuc/downloads/recycle/
+binMovie=/home/nuc/downloads/recycle/radarr/
+binTV=/home/nuc/downloads/recycle/sonarr/
 #Set the library locations
 movieFolderRoot=/mnt/MediaG/Movies/
 tvFolderRoot=/mnt/MediaF/TV/
